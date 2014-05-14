@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<head>
+	<title>plant data</title>
+	<script src="../bower_components/angular/angular.js"></script>
+	<script src="../bower_components/angular-route/angular-route.js"></script>
+	<script src="js/app.js" type="text/javascript"></script>
+	<script src="js/maincontroller.js" type="text/javascript"></script>
+	
+</head>	
+<body>
+	<div id='content' ng-app='MyPlantApp' ng-controller='MainController'>
+
+
+			<ul class="plants">
+				<li ng-repeat='plant in plants'>
+				#{{plantInfo.id}} {{plantInfo.name}} </li>
+			</ul>
+
+	</div>
+</body>
+</html>

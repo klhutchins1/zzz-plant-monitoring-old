@@ -1,0 +1,113 @@
+	{
+		id: 000001,
+		name: "pepper",
+		location: "0,1",
+		Unix_time: "1398567064",
+		soil_temp: "55.2",
+		air_temp: "75.0",
+		air_humidity: "87%",
+		lumens: "10000",
+		wind: "SSE 3 G 2 MPH",
+		ion: "",
+		moisture: "0"
+	},
+	{
+		id: 000002,
+		name: "tomato",
+		location: "1,0",
+		Unix_time: "1398567064",
+		soil_temp: "55.2",
+		air_temp: "60.2",
+		air_humidity: "87%",
+		lumens: "10000",
+		wind: "SSE 3 G 2 MPH",
+		ion: "",
+		moisture: "0"
+	},
+	{
+		id: 000003,
+		name: "lettuce",
+		location: "1,1",
+		Unix_time: "1398567900", 
+		soil_temp: "55.2",
+		air_temp: "99.9",
+		air_humidity: "87%",
+		lumens: "10000",
+		wind: "SSE 3 G 4 MPH",
+		ion: "",
+		moisture: "0"
+	}
+	
+	
+	
+	
+	
+		
+	
+/* 	$scope.plant = [
+		{
+			id: 000000,
+			name: "tomato",
+			location: "0,0",
+			Unix_time: '1398567064', 
+			soil_temp: "55.2",
+			air_temp: "27.4",
+			air_humidity: "87%",
+			lumens: "10000",
+			wind: "SSE 3 G 4 MPH",
+			ion: "",
+			moisture: "0"
+	
+		},
+		{
+			id: 000001,
+			name: "pepper",
+			location: "0,1",
+			Unix_time: "1398567064",
+			soil_temp: "55.2",
+			air_temp: "75.0",
+			air_humidity: "87%",
+			lumens: "10000",
+			wind: "SSE 3 G 2 MPH",
+			ion: "",
+			moisture: "0"
+		},
+		{
+			id: 000002,
+			name: "tomato",
+			location: "1,0",
+			Unix_time: "1398567064",
+			soil_temp: "55.2",
+			air_temp: "60.2",
+			air_humidity: "87%",
+			lumens: "10000",
+			wind: "SSE 3 G 2 MPH",
+			ion: "",
+			moisture: "0"
+		},
+		{
+			id: 000003,
+			name: "lettuce",
+			location: "1,1",
+			Unix_time: "1398567900", 
+			soil_temp: "55.2",
+			air_temp: "99.9",
+			air_humidity: "87%",
+			lumens: "10000",
+			wind: "SSE 3 G 4 MPH",
+			ion: "",
+			moisture: "0"
+		}
+	]; */
+	
+	
+	
+			"location": "0,0",
+		"Unix_time": '1398567064', 
+		"soil_temp": "55.2",
+		"air_temp": "27.4",
+		"air_humidity": "87%",
+		"lumens": "10000",
+		"wind": "SSE 3 G 4 MPH",
+		"ion": "",
+		"moisture": "0"
